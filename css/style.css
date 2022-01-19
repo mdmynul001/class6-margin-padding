@@ -1,0 +1,60 @@
+
+/*margin*/
+.box{
+	width: 100px;
+	height: 100px;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.red{
+     background-color: red;
+      margin: 100px 90px 100px 200px;
+}
+
+.green{
+     background-color: green;
+}
+
+.box3{
+
+}
+
+/*pading*/
+
+.box3{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	padding: 100px 80px 100px 200px;
+}
+.box4{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	border: 5px solid black;
+	padding: 50px;
+	margin: 100px;
+}
+
+.button {
+  border: none;
+  color: blue;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+
+.video{
+	width: 50%;
+	height: 400px;
+}
+
